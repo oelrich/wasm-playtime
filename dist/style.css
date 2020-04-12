@@ -1,0 +1,23 @@
+
+    html {
+      background-color: #222;
+      color: #777;
+    }
+
+    body {
+      padding: 1em;
+    }
+
+    * {
+      padding: 0;
+      margin: 0;
+      border: 0;
+      box-sizing: border-box;
+    }
+
+    button {
+      font-size: 100%;
+      font-family: inherit;
+      background: inherit;
+      color: inherit;
+    }
